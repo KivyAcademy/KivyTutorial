@@ -26,3 +26,8 @@ Segreto 3 - A Kivy based secret note taking app
 
 https://www.youtube.com/watch?v=uq20kiAlTw8
 
+
+
+GUI Chat Application Tutorial
+
+https://www.youtube.com/watch?v=Cj6lVsXbrng
