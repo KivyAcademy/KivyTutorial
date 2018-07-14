@@ -37,5 +37,11 @@ KivyMD
 
 https://gitlab.com/kivymd/KivyMD 
 
+kivyMD, this is a video sample of a working app 
+
+https://www.youtube.com/watch?v=HEt15QIH-n8 
 
 https://github.com/mcroni/kivy_gosh
+
+https://groups.google.com/forum/#!topic/kivy-users/wj0J5vA8s8Q
+
