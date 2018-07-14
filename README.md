@@ -8,7 +8,13 @@ https://www.youtube.com/watch?v=4dPee4PcknI&list=PL9E0FASXyOCYDkDcdNh-igL_tZTLML
 
 
 Kivy Creating Desktop and Mobile Apps with Python
+
 https://www.youtube.com/watch?v=7tlJpYGex6A
+
+Build Simple Desktop GUI program with Kivy
+
+https://www.youtube.com/playlist?list=PLPkz3Ny42tJsxdLaGE_Q5uY5b9PUI-D9V
+
 
 
 
