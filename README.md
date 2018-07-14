@@ -47,5 +47,8 @@ https://groups.google.com/forum/#!topic/kivy-users/wj0J5vA8s8Q
 
 https://github.com/mvasilkov/kb
 
+Python Kivy [Russion language]
+
+https://www.youtube.com/watch?v=9bK5JJFVMbk&t=1036s
 
 
