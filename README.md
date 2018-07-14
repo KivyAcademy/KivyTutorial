@@ -54,3 +54,8 @@ https://www.youtube.com/watch?v=9bK5JJFVMbk&t=1036s
 K-python
 
 https://www.youtube.com/playlist?list=PLUAGcm0YCy1yt2ykwBhc2OPzUU0su78Lw
+
+Kivy Blueprints 
+
+https://github.com/mvasilkov/kb
+
