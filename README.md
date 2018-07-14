@@ -21,7 +21,8 @@ The Hotel Management System | Python Application | Kivy Example | Python Project
 https://www.youtube.com/watch?v=BcVwPLZgF1o&list=PLnYBrN5FRWQ0tGAUH6q-FNfospzCXwNS8
 
 
+Segreto 3 - A Kivy based secret note taking app
 
 
-
+https://www.youtube.com/watch?v=uq20kiAlTw8
 
