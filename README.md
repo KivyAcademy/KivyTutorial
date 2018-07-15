@@ -67,3 +67,6 @@ https://groups.google.com/forum/#!forum/kivy-users
 
 https://www.reddit.com/r/kivy/comments/8qk2cb/kivy_code_for_a_weather_app/
 
+GitHub 链接在 cycleuser/Kivy-CN
+Gitbook 链接在 前言 · Kivy中文编程指南
+
