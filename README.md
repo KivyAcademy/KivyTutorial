@@ -59,3 +59,11 @@ Kivy Blueprints
 
 https://github.com/mvasilkov/kb
 
+kivyteach
+
+https://github.com/cruor99/kivyteach
+
+https://groups.google.com/forum/#!forum/kivy-users
+
+https://www.reddit.com/r/kivy/comments/8qk2cb/kivy_code_for_a_weather_app/
+
