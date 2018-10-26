@@ -72,4 +72,5 @@ Gitbook 链接在 前言 · Kivy中文编程指南
 
 A Web Developer Builds a Kivy App: http://mattscodecave.com/posts/a-web-developer-builds-a-kivy-app.html
 
+Kivy port of Dataframe GUI module: https://github.com/MichaelStott/DataframeGUIKivy
 
