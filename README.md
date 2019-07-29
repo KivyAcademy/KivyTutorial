@@ -6,6 +6,8 @@ kivy tutorials
 
 https://www.youtube.com/watch?v=4dPee4PcknI&list=PL9E0FASXyOCYDkDcdNh-igL_tZTLMLcgZ
 
+PythonMobile: 
+https://www.youtube.com/channel/UC3NaNo9j9FKEpFjq0uPM6Dw
 
 Kivy Creating Desktop and Mobile Apps with Python
 
